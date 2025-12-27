@@ -1,4 +1,4 @@
-For TO-DO-APP live demo: https://to-do-app-seven-iota.vercel.app/  \
+For TO-DO-APP live demo: https://to-do-app-seven-iota.vercel.app/  
 
 View live my portfolio : www.nishchalrajsubedi.com.np  \ https://my-portfolio-website-nu-gray.vercel.app/  \
  You can view my other project live here :  \
